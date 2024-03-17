@@ -1,3 +1,5 @@
 Resolusi Genio 2024
 -Lebih paham bahasa Java
--Menbuat projek sederhana
+-Menbuat projek sederhana dari java
+-Meningkatkan kemampuan bahasa Inggris
+-Membuat web portofolio 
